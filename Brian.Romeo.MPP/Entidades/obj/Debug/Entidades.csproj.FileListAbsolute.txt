@@ -1,0 +1,6 @@
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Entidades\bin\Debug\Entidades.dll
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Entidades\bin\Debug\Entidades.pdb
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Entidades\obj\Debug\Entidades.dll
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Entidades\obj\Debug\Entidades.pdb

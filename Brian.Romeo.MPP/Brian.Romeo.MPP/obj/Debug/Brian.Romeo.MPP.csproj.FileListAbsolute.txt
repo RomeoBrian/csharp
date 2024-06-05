@@ -1,0 +1,10 @@
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Brian.Romeo.MPP\bin\Debug\Brian.Romeo.MPP.exe.config
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Brian.Romeo.MPP\bin\Debug\Brian.Romeo.MPP.exe
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Brian.Romeo.MPP\bin\Debug\Brian.Romeo.MPP.pdb
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Brian.Romeo.MPP\bin\Debug\Entidades.dll
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Brian.Romeo.MPP\bin\Debug\Entidades.pdb
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Brian.Romeo.MPP\obj\Debug\Brian.Romeo.MPP.csproj.AssemblyReference.cache
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Brian.Romeo.MPP\obj\Debug\Brian.Romeo.MPP.csproj.CoreCompileInputs.cache
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Brian.Romeo.MPP\obj\Debug\Brian.Ro.3748525E.Up2Date
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Brian.Romeo.MPP\obj\Debug\Brian.Romeo.MPP.exe
+R:\c#utn\segundo_modelo\Brian.Romeo.MPP\Brian.Romeo.MPP\obj\Debug\Brian.Romeo.MPP.pdb
