@@ -1,0 +1,10 @@
+R:\c#utn\Romeo.Brian.PP\Romeo.Brian.PP\test\bin\Debug\test.exe.config
+R:\c#utn\Romeo.Brian.PP\Romeo.Brian.PP\test\bin\Debug\test.exe
+R:\c#utn\Romeo.Brian.PP\Romeo.Brian.PP\test\bin\Debug\test.pdb
+R:\c#utn\Romeo.Brian.PP\Romeo.Brian.PP\test\bin\Debug\Entidades.dll
+R:\c#utn\Romeo.Brian.PP\Romeo.Brian.PP\test\bin\Debug\Entidades.pdb
+R:\c#utn\Romeo.Brian.PP\Romeo.Brian.PP\test\obj\Debug\test.csproj.AssemblyReference.cache
+R:\c#utn\Romeo.Brian.PP\Romeo.Brian.PP\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+R:\c#utn\Romeo.Brian.PP\Romeo.Brian.PP\test\obj\Debug\test.csproj.Up2Date
+R:\c#utn\Romeo.Brian.PP\Romeo.Brian.PP\test\obj\Debug\test.exe
+R:\c#utn\Romeo.Brian.PP\Romeo.Brian.PP\test\obj\Debug\test.pdb

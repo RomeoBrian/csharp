@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Shopping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CapacidadMaxima>5</CapacidadMaxima>
+  <Comercios>
+    <Comercio xsi:type="Exportador">
+      <CantidadDeEmpleados>61</CantidadDeEmpleados>
+      <Comerciante>
+        <Apellido>Domingo</Apellido>
+        <Nombre>Caballo</Nombre>
+      </Comerciante>
+      <Nombre>Electrónica 80</Nombre>
+      <PrecioAlquiler>15200</PrecioAlquiler>
+    </Comercio>
+    <Comercio xsi:type="Importador">
+      <CantidadDeEmpleados>40</CantidadDeEmpleados>
+      <Comerciante>
+        <Apellido>Alberto</Apellido>
+        <Nombre>Samudio</Nombre>
+      </Comerciante>
+      <Nombre>Granola S.A.</Nombre>
+      <PrecioAlquiler>23900</PrecioAlquiler>
+    </Comercio>
+    <Comercio xsi:type="Exportador">
+      <CantidadDeEmpleados>20</CantidadDeEmpleados>
+      <Comerciante>
+        <Apellido>Joe</Apellido>
+        <Nombre>Molleja</Nombre>
+      </Comerciante>
+      <Nombre>Matarife</Nombre>
+      <PrecioAlquiler>29095</PrecioAlquiler>
+    </Comercio>
+    <Comercio xsi:type="Importador">
+      <CantidadDeEmpleados>63</CantidadDeEmpleados>
+      <Comerciante>
+        <Apellido>Alberto</Apellido>
+        <Nombre>Samudio</Nombre>
+      </Comerciante>
+      <Nombre>Matarife</Nombre>
+      <PrecioAlquiler>203000</PrecioAlquiler>
+    </Comercio>
+    <Comercio xsi:type="Importador">
+      <CantidadDeEmpleados>44</CantidadDeEmpleados>
+      <Comerciante>
+        <Apellido>Domingo</Apellido>
+        <Nombre>Caballo</Nombre>
+      </Comerciante>
+      <Nombre>Matarife</Nombre>
+      <PrecioAlquiler>98000</PrecioAlquiler>
+    </Comercio>
+    <Comercio xsi:type="Importador">
+      <CantidadDeEmpleados>32</CantidadDeEmpleados>
+      <Comerciante>
+        <Apellido>Domingo</Apellido>
+        <Nombre>Caballo</Nombre>
+      </Comerciante>
+      <Nombre>Nuevo Comercio</Nombre>
+      <PrecioAlquiler>50000</PrecioAlquiler>
+    </Comercio>
+  </Comercios>
+  <PrecioDeExportadores>44295</PrecioDeExportadores>
+  <PrecioDeImportadores>374900</PrecioDeImportadores>
+  <PrecioTotal>419195</PrecioTotal>
+</Shopping>

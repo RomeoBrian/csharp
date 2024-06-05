@@ -1,0 +1,38 @@
+Capacidad del Shopping: 5
+Total por importadores: 374900
+Total por Exportadores: 44295
+Total: 419195
+***************************
+Listado de Comercios
+***************************
+Nombre Comercio: Electrónica 80
+Comerciante: Caballo Domingo
+Cantidad de empleados: 61
+Tipo de producto: Tecnologico
+
+Nombre Comercio: Granola S.A.
+Comerciante: Samudio Alberto
+Cantidad de empleados: 40
+Tipo de producto: UnionEuropea
+
+Nombre Comercio: Matarife
+Comerciante: Molleja Joe
+Cantidad de empleados: 20
+Tipo de producto: Rural
+
+Nombre Comercio: Matarife
+Comerciante: Samudio Alberto
+Cantidad de empleados: 63
+Tipo de producto: Taiwan
+
+Nombre Comercio: Matarife
+Comerciante: Caballo Domingo
+Cantidad de empleados: 44
+Tipo de producto: China
+
+Nombre Comercio: Nuevo Comercio
+Comerciante: Caballo Domingo
+Cantidad de empleados: 32
+Tipo de producto: China
+
+
